@@ -122,7 +122,7 @@
         //│          │          │          │          │          │      │          │          │          │          │          │
             &none      &none      &none      &none      &none             &none      &none      &trans     &trans     &as SEMI
         //╰──────────┴──────────┴──────────┼──────────┼──────────┤      ├──────────┼──────────┼──────────┴──────────┴──────────╯
-                                             &trans     &trans    &trans  &trans     &trans
+                                             &trans     &trans    &studio_unlock  &trans     &trans
         //                                 ╰──────────┴──────────╯      ╰──────────┴──────────╯
             >;
             sensor-bindings = <&inc_dec_kp C_VOL_UP C_VOL_DN>;
